@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Makanan Khas Daerah</string>
+    <string name="foods_name">Nama Makanan Daerah</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile">Profile</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="deskripsi_detail">Deskripsi</string>
+    <string name="name">Aji Sejati</string>
+    <string name="email">ajisejati01@gmail.com</string>
+    <string name="share">Share</string>
+
+
+    <string-array name="data_name">
+        <item>Ayam Taliwang</item>
+        <item>Gulai Belacan</item>
+        <item>Karedok</item>
+        <item>Kerak Telor</item>
+        <item>Lumpia</item>
+        <item>Papeda</item>
+        <item>Pempek</item>
+        <item>Pendap</item>
+        <item>Rawon</item>
+        <item>Rendang</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Ayam taliwang adalah hidangan khas dari daerah Lombok, Indonesia.</item>
+        <item>Gulai Belacan adalah hidangan khas dari Provinsi Riau, Indonesia.</item>
+        <item>Karedok adalah salah satu jenis hidangan salad khas dari Sunda, Jawa Barat, Indonesia.</item>
+        <item>Kerak telor adalah hidangan tradisional Indonesia yang berasal dari Betawi, Jakarta.</item>
+        <item>Lumpia merupakan salah satu makanan tradisional yang berasal dari daerah Semarang, Jawa Tengah.</item>
+        <item>Papeda adalah hidangan khas dari Papua, Indonesia.</item>
+        <item>Pempek adalah hidangan khas dari Palembang, Sumatera Selatan, Indonesia.</item>
+        <item>Pendap adalah hidangan khas dari Sumatera Barat, Indonesia.</item>
+        <item>Rawon adalah hidangan khas dari Jawa Timur, Indonesia.</item>
+        <item>Rendang adalah hidangan khas dari Minangkabau, Sumatera Barat, Indonesia.</item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ayam_taliwang</item>
+        <item>@drawable/gulai_belacan</item>
+        <item>@drawable/karedok</item>
+        <item>@drawable/kerak_telor</item>
+        <item>@drawable/lumpia</item>
+        <item>@drawable/papeda</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/pendap</item>
+        <item>@drawable/rawon</item>
+        <item>@drawable/rendang </item>
+    </integer-array>
+
+    <string-array name="detail_description">
+        <item>Ayam taliwang adalah hidangan khas dari daerah Lombok, Indonesia. Hidangan ini terdiri dari ayam bakar dengan bumbu pedas khas, biasanya menggunakan cabai rawit, bawang merah, bawang putih, dan rempah-rempah lainnya. Ayam taliwang memiliki cita rasa pedas, gurih, dan sedikit manis yang sangat khas. Biasanya disajikan dengan nasi putih dan lalapan segar.</item>
+        <item>Gulai Belacan adalah hidangan khas dari Provinsi Riau, Indonesia. Hidangan ini terbuat dari bahan utama seperti daging sapi, ayam, atau ikan yang dimasak dalam kuah gulai yang kaya akan rempah-rempah, santan, dan belacan (pasta udang yang difermentasi). Gulai Belacan memiliki cita rasa gurih, pedas, dan sedikit asam yang sangat khas. Hidangan ini biasanya disajikan dengan nasi putih hangat atau lontong.</item>
+        <item>Karedok adalah salah satu jenis hidangan salad khas dari Sunda, Jawa Barat, Indonesia. Hidangan ini terbuat dari sayuran mentah yang segar, seperti kacang panjang, tauge, ketimun, kubis, dan kol, yang dicampur dengan bumbu kacang yang terbuat dari bahan seperti kacang tanah, cabai rawit, bawang putih, gula merah, dan garam. Karedok biasanya disajikan dengan lontong atau nasi putih. Hidangan ini memiliki cita rasa segar, gurih, dan sedikit pedas yang sangat khas.</item>
+        <item>Kerak telor adalah hidangan tradisional Indonesia yang berasal dari Betawi, Jakarta. Hidangan ini terbuat dari campuran beras ketan yang telah direbus, telur ayam, bawang merah, ebi (udang kering), dan kelapa parut yang kemudian digoreng hingga matang. Kerak telor disajikan dengan taburan bawang merah goreng dan serundeng (kelapa parut kering yang telah disangrai dengan bumbu). Hidangan ini memiliki cita rasa gurih, renyah, dan sedikit pedas karena biasanya diberi taburan cabai.</item>
+        <item>Lumpia merupakan salah satu makanan tradisional yang berasal dari daerah Semarang, Jawa Tengah. Lumpia adalah hidangan yang terbuat dari adonan kulit lumpia yang diisi dengan berbagai bahan, seperti rebung, wortel, tauge, daging ayam atau udang, dan sayuran lainnya, tergantung pada variasi dan preferensi lokal. Setelah diisi, lumpia digulung dan kemudian digoreng hingga kulitnya menjadi renyah dan berwarna keemasan. Lumpia biasanya disajikan dengan saus sambal atau saus kacang untuk memberikan rasa pedas atau gurih yang lebih nikmat. Hidangan ini sangat populer di Indonesia dan ditemukan dalam berbagai versi di seluruh negeri.</item>
+        <item>Papeda adalah hidangan khas dari Papua, Indonesia, yang terbuat dari sagu yang dikocok hingga membentuk bubur kental. Sagunya biasanya berasal dari pohon sagu atau sago palm, yang merupakan sumber karbohidrat utama di Papua. Papeda sering disajikan dengan ikan kuah kuning atau daging yang diolah dalam kuah pedas. Hidangan ini memiliki tekstur yang kenyal dan kental, serta biasanya disajikan sebagai makanan pokok dalam tradisi Papua. Papeda sering dianggap sebagai simbol budaya Papua yang kaya akan warisan kuliner tradisional.</item>
+        <item>Pempek adalah hidangan khas dari Palembang, Sumatera Selatan, Indonesia. Hidangan ini terbuat dari adonan ikan yang dicampur dengan tepung sagu, kemudian dibentuk dan digoreng. Pempek biasanya disajikan dengan kuah cuko yang terbuat dari campuran gula merah, cuka, cabai, bawang putih, dan garam. Ada berbagai jenis pempek, termasuk pempek kapal selam (dengan telur ayam di dalamnya), pempek lenjer, dan pempek adaan. Hidangan ini memiliki cita rasa gurih, pedas, manis, dan asam yang unik. Pempek sering dianggap sebagai salah satu makanan ikonik Indonesia yang populer di seluruh negeri.</item>
+        <item>Pendap adalah hidangan khas dari Sumatera Barat, Indonesia. Hidangan ini terdiri dari daging sapi yang dipotong kecil-kecil dan kemudian dimasak dengan bumbu rempah-rempah seperti cabai, bawang merah, bawang putih, jahe, lengkuas, dan daun jeruk. Biasanya, pendap juga menggunakan santan kelapa untuk memberikan cita rasa kaya dan gurih. Hidangan ini memiliki rasa pedas, gurih, dan aromatik yang khas. Pendap sering disajikan sebagai lauk pendamping nasi putih dalam hidangan makanan Minangkabau.</item>
+        <item>Rawon adalah hidangan khas dari Jawa Timur, Indonesia. Hidangan ini terbuat dari daging sapi yang dimasak dalam kuah berwarna hitam pekat yang khas, yang diberi warna hitam oleh kluwek atau keluak, yang merupakan biji buah dari pohon keluak. Selain daging sapi, bumbu-bumbu yang digunakan dalam rawon antara lain bawang merah, bawang putih, kunyit, jahe, lengkuas, serai, dan cabai. Rawon biasanya disajikan dengan nasi putih dan dilengkapi dengan irisan telur asin, irisan kentang goreng, tauge, daun bawang, dan sambal sebagai pelengkap. Hidangan ini memiliki cita rasa gurih, pedas, dan kaya akan rempah-rempah, serta tekstur kuah yang lezat dan daging sapi yang empuk. Rawon merupakan salah satu makanan tradisional yang sangat populer di Indonesia.</item>
+        <item>Rendang adalah hidangan khas dari Minangkabau, Sumatera Barat, Indonesia. Hidangan ini terbuat dari potongan daging sapi yang dimasak dalam santan dan rempah-rempah yang kaya, seperti serai, jahe, lengkuas, cabai merah, bawang merah, bawang putih, daun jeruk, dan daun salam. Proses memasak rendang memakan waktu yang cukup lama hingga santan menyusut dan bumbu meresap sepenuhnya ke dalam daging, sehingga menghasilkan tekstur yang lembut dan kuah yang kental. Rendang memiliki cita rasa yang kaya, gurih, pedas, dan sedikit manis dengan aroma rempah yang harum. Hidangan ini biasanya disajikan sebagai lauk pendamping nasi putih atau ketupat dalam acara-acara spesial dan perayaan.</item>
+    </string-array>
+</resources>
